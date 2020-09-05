@@ -1,4 +1,4 @@
-# BloodBrainBarrier
+# Blood Brain Barrier Project
 The repo has the example codes that were used for the working paper titled "Predicting Drug Blood-Brain Barrier Penetration with Adverse Event Report Embeddings"<br>
 
 ##dataset
